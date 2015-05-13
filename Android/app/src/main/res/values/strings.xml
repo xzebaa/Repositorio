@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Enucuestas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="Abierto">Abierto</string>
+    <string name="Cerrado">Cerrado</string>
+
+    <!-- Frame 1  buscador-->
+    <string name="esBusqueda">Cerrado</string>
+    <string name="btnBuscar">BuscarEnRae</string>
+    <string name="textBusqueda">BuscarEnRae</string>
+
+    <!-- pantalla login -->
+    <string name="labelUsuarioLogin">Usuario:</string>
+    <string name="labelPasswordLogin">Password:</string>
+    <string name="btnIngresarLogin">Ingresar</string>
+
+    <!-- fragmento 1 -->
+
+    <!-- fragmento 2 -->
+    <string name="labelFragmento2">Aqui estara mis estadisticas</string>
+
+    <!-- fragmento 3 -->
+    <string name="labelFragmento3">Aqui estara mi informacion personal</string>
+
+    <!-- fragmento 4 -->
+    <string name="labelFragmento4">Aqui estara mi informacion personal</string>
+
+
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
